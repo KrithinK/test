@@ -1,0 +1,36 @@
+.title {
+  color: #333;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.text {
+  color: #777;
+}
+
+.btn {
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: #4979ff;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+}
+
+.imgc {
+  margin: 50px 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5 px;
+}
+
+.imgind {
+  border-radius: 4px;
+  margin: 0 30px;
+}
